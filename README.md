@@ -7,6 +7,8 @@ This repository is an assessment in python covering:
     Sets, Dictionaries and 
     Object-Oriented Programming
 
+Run  ``python3 challenge.py`` to execute practical examples on the terminal
+
 ## Files
     challenges.py -contains well written solutions to assessments in the above fields.
 
