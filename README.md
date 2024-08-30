@@ -1,10 +1,10 @@
 ## Overview
 This repository is an assessment in python covering:
-    Basic data structures
-    Functions
-    Decorators
-    Sequences
-    Sets, Dictionaries
+    Basic data structures,
+    Functions,
+    Decorators,
+    Sequences,
+    Sets, Dictionaries and 
     Object-Oriented Programming
 
 ## Files
